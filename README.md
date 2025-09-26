@@ -1,2 +1,2 @@
 # WebSite
-WebSite for me introdunce and my homework
+Web sitesinin kodlarını "web" adli klasör içinde bulabilirsiniz.
